@@ -34,19 +34,19 @@ Seja bem-vindo ao meu portfólio! Aqui, compartilho minha jornada como desenvolv
 As seguintes ferramentas que foram utilizadas na construção do projeto:
 <table>
   <thead>
-    <th>Front-end</th>
-  </thead>
-  <tbody>
-    <tr>
-      <td>JavaScript</td>
-    </tr>
-    <tr>
-      <td>HTML</td>
-    </tr>
-    <tr>
-      <td>CSS</td>
-    </tr>
-  </tbody>
+      <tbody>
+        <th>Front-end</th>
+        <tr>
+          <td>JavaScript</td>
+        </tr>
+        <tr>
+          <td>HTML</td>
+        </tr>
+        <tr>
+          <td>CSS</td>
+        </tr>
+      </tbody>
+    </thead>
 </table>
 
 # Contato 📲
