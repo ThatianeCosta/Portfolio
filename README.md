@@ -54,13 +54,14 @@ Estou sempre aberta a novas oportunidades de colaboração e aprendizado. Você 
 
 
 E-mail: 📧 
-thatianecosta09@gmail.com
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thatianecosta09@gmail.com)
  
 
 LinkedIn: 🖇️
-[!thatianecosta](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-<a href= "https://www.linkedin.com/in/thatiane-costa" target="_blank"> Thatiane Costa</a>
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thatiane-costa)
 
+GitHub: 🤖
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/thatianecosta)
 
 
 Obrigado por visitar meu portfólio! Sinta-se à vontade para explorar meus projetos e entrar em contato.🧏🏻‍♀️
