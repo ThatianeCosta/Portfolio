@@ -58,6 +58,7 @@ thatianecosta09@gmail.com
  
 
 LinkedIn: 🖇️
+[!thatianecosta](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <a href= "https://www.linkedin.com/in/thatiane-costa" target="_blank"> Thatiane Costa</a>
 
 
