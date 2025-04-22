@@ -1,6 +1,6 @@
 # Portfólio 👩🏻‍💻
 
-Olá, seja bem-vindo ao meu portfólio!
+Olá, seja bem-vindo ao meu portfólio
 
 
 Sou a **Thatiane Costa**, desenvolvedora júnior, com conhecimento em Python, JavaScript e Java. Sou apaixonada pela tecnologia e programação, e busco constantemente aprender e crescer em minha carreira.
