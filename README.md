@@ -7,8 +7,10 @@ Sou a **Thatiane Costa**, desenvolvedora júnior, com conhecimento em Python, SQ
 
 
 Acesse <a href= "https://thatianecosta.github.io/Portfolio/" target="_blank"> Meu Portfólio</a> 🌐
+
 <div>
-    <img src="Portfolio Imagens/Portfolio_20241203.jpg" width="800px" />
+    <img src="Portfolio Imagens/Portfolio_20241203.jpg" width="790px">
+</div>
   
 # Sobre o Projeto 💻 </>
 Seja bem-vindo ao meu portfólio! Aqui, compartilho minha jornada como desenvolvedora júnior, apresentando uma variedade de projetos que desenvolvi com base em conceitos de front-end. Neste espaço, você poderá conhecer mais sobre minha trajetória e explorar uma seleção dos meus trabalhos, que destacam as principais tecnologias que utilizo. Além disso, disponibilizei links para minhas redes sociais e acesso aos meus repositórios no GitHub, onde você pode conferir todos os projetos que criei.
