@@ -17,11 +17,13 @@ Seja bem-vindo ao meu portfólio! Aqui, compartilho minha jornada como desenvolv
 
 # Seções do Portfólio 📌
 <div>
-  <li>Início: Uma apresentação concisa que dá as boas-vindas e introduz o visitante ao meu trabalho.</li>
-  <li>Sobre: Aqui, compartilho um pouco da minha trajetória e da minha paixão pela tecnologia.</li>
-  <li>Especiliadades: Nesta seção, apresento um resumo das áreas em que possuo conhecimento teórico e prático, refletindo meu aprendizado.</li>
-  <li>Projetos: Aqui você encontrará uma seleção dos projetos que desenvolvi, com links diretos para os códigos disponíveis no GitHub, permitindo que você explore meu trabalho em detalhes.</li>
-    <li>Habilidades: Nessa seção, compartilho um resumo das tecnologias e linguagens que tenho conhecimento. </li>
+    <li>Início: Boas-vindas e uma breve introdução sobre minha atuação profissional e objetivos na área de tecnologia.</li>
+    <li>Sobre Mim: Detalhes da minha trajetória acadêmica, transição/evolução profissional e a paixão por criar soluções eficientes.</li>
+    <li>Especialidades: Resumo das minhas principais áreas de atuação — Back-end, Front-end e Análise de Dados — com foco no conhecimento teórico e prático.</li>
+    <li>Projetos: Galeria de aplicações desenvolvidas por mim, incluindo links diretos para os repositórios no GitHub para consulta e análise dos códigos.</li>
+    <li>Habilidades: Visão geral do meu ecossistema técnico, destacando linguagens de programação, ferramentas e tecnologias que utilizo no dia a dia.</li>
+    <li>Certificados: Registro das minhas qualificações, cursos de extensão e formações contínuas na área de TI e Ciência de Dados.</li>
+    <li>Contato: Canal direto para bate-papo, oportunidades de networking, feedbacks e colaborações.</li>
 </div>
 
 # Funcionalidades ⚙️
