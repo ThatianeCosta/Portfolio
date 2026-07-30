@@ -9,7 +9,7 @@ Sou a **Thatiane Costa**, desenvolvedora júnior, com conhecimento em Python, SQ
 Acesse <a href= "https://thatianecosta.github.io/Portfolio/" target="_blank"> Meu Portfólio</a> 🌐
 
 <div>
-    <img src="Portfolio Imagens/Portfolio_20241203.jpg" width="790px">
+    <img src="Portfolio Imagens//portfoliohome.png" width="790px">
 </div>
   
 # Sobre o Projeto 💻 </>
