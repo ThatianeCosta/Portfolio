@@ -1,71 +1,74 @@
-# Portfólio 👩🏻‍💻
+# 👩🏻‍💻 Portfólio Pessoal — Thatiane Costa
 
-Olá, seja bem-vindo ao meu portfólio!
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
 
+> Bem-vindo(a) ao meu portfólio! Aqui você encontrará minha trajetória como desenvolvedora, minhas principais habilidades e alguns dos projetos que desenvolvi.
 
-Sou a **Thatiane Costa**, desenvolvedora júnior, com conhecimento em Python, SQL e JavaScript. Sou apaixonada pela tecnologia e programação, e busco constantemente aprender e crescer em minha carreira.
+🚀 **[Acesse o meu Portfólio online aqui!](https://thatianecosta.github.io/Portfolio/)**
 
+---
 
-Acesse <a href= "https://thatianecosta.github.io/Portfolio/" target="_blank"> Meu Portfólio</a> 🌐
+## 🖼️ Prévia do Projeto
 
-<div>
-    <img src="Portfolio Imagens//portfoliohome.png" width="790px">
-</div>
-  
-# Sobre o Projeto 💻 </>
-Seja bem-vindo ao meu portfólio! Aqui, compartilho minha jornada como desenvolvedora júnior, apresentando uma variedade de projetos que desenvolvi com base em conceitos de front-end. Neste espaço, você poderá conhecer mais sobre minha trajetória e explorar uma seleção dos meus trabalhos, que destacam as principais tecnologias que utilizo. Além disso, disponibilizei links para minhas redes sociais e acesso aos meus repositórios no GitHub, onde você pode conferir todos os projetos que criei.
+![Preview do Portfólio](Portfolio%20Imagens/portfoliohome.png)
 
-# Seções do Portfólio 📌
-<div>
-    <li>Início: Boas-vindas e uma breve introdução sobre minha atuação profissional e objetivos na área de tecnologia.</li>
-    <li>Sobre Mim: Detalhes da minha trajetória acadêmica, transição/evolução profissional e a paixão por criar soluções eficientes.</li>
-    <li>Especialidades: Resumo das minhas principais áreas de atuação — Back-end, Front-end e Análise de Dados — com foco no conhecimento teórico e prático.</li>
-    <li>Projetos: Galeria de aplicações desenvolvidas por mim, incluindo links diretos para os repositórios no GitHub para consulta e análise dos códigos.</li>
-    <li>Habilidades: Visão geral do meu ecossistema técnico, destacando linguagens de programação, ferramentas e tecnologias que utilizo no dia a dia.</li>
-    <li>Certificados: Registro das minhas qualificações, cursos de extensão e formações contínuas na área de TI e Ciência de Dados.</li>
-    <li>Contato: Canal direto para bate-papo, oportunidades de networking, feedbacks e colaborações.</li>
-</div>
+---
 
-# Funcionalidades ⚙️
-<div>
-  <li> Acesso aos meus projetos e visualizar o código disponível no GitHub.</li>
-  <li> Implementação de seleção de modo claro e escuro para melhor visualização da página.</li>
-  <li> Um formulário de e-mail funcional.</li>
-  <li> Navegação dinâmica.</li>
-</div>
+## 💻 Sobre o Projeto
 
-# Tecnologias 🛠️
-As seguintes ferramentas que foram utilizadas na construção do projeto:
-<table>
-  <thead>
-      <tbody>
-        <th>Front-end</th>
-        <tr>
-          <td>JavaScript</td>
-        </tr>
-        <tr>
-          <td>HTML</td>
-        </tr>
-        <tr>
-          <td>CSS</td>
-        </tr>
-      </tbody>
-    </thead>
-</table>
+Este repositório contém o código-fonte do meu **Portfólio Pessoal e Profissional**, desenvolvido para apresentar minha evolução como **Desenvolvedora Júnior**. 
 
-# Contato 📲
-Estou sempre aberta a novas oportunidades de colaboração e aprendizado. Você pode me encontrar através dos meus links de contato:
+O projeto foi construído do zero focando em práticas de **Front-end**, responsividade para dispositivos móveis e uma experiência de usuário (UX) agradável, permitindo fácil navegação entre meus trabalhos, habilidades e canais de contato.
 
+---
 
-📧 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thatianecosta09@gmail.com)
- 
+## 📌 Seções do Portfólio
 
-🖇️
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thatiane-costa)
+* **🏠 Início:** Boas-vindas e introdução rápida ao meu perfil.
+* **👤 Sobre Mim:** Minha trajetória acadêmica, transição de carreira e motivações no universo da tecnologia.
+* **⚙️ Especialidades:** Áreas de foco teórico e prático (Análise de Dados, Front-end e Back-end ).
+* **📂 Projetos:** Galeria com meus principais projetos desenvolvidos, contendo atalhos diretos para os códigos no GitHub.
+* **🚀 Habilidades:** Ecossistema técnico e ferramentas do dia a dia.
+* **🎓 Certificados:** Minhas qualificações, cursos complementares e certificações em TI.
+* **📬 Contato:** Canal direto para conversas, feedbacks e oportunidades.
 
-🤖
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/thatianecosta)
+---
 
+## ✨ Funcionalidades e Destaques
 
-Obrigado por visitar meu portfólio! Sinta-se à vontade para explorar meus projetos e entrar em contato.🧏🏻‍♀️
+- [x] **Design Responsivo:** Adaptado perfeitamente para desktop, tablets e smartphones.
+- [x] **Alternador de Tema (Dark / Light Mode):** Escolha de visualização dinâmica com suporte ao tema escuro.
+- [x] **Animações e Efeitos CSS:** Transições suaves ao rolar a página e interagir com elementos.
+- [x] **Formulário de Contato:** Integração direta para envio de e-mails.
+- [x] **Menu Navegável:** Rola dinamicamente até a seção selecionada.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+| Tecnologia | Descrição |
+| :--- | :--- |
+| **HTML5** | Estruturação semântica da página |
+| **CSS3** | Estilização, layout flexível (Flexbox/Grid), responsividade e temas |
+| **JavaScript (ES6+)** | Lógica de interação, alternância de tema e comportamento dinâmico |
+
+---
+
+## 📲 Vamos Conectar?
+
+Estou sempre aberta a novas oportunidades, colaborações e trocas de conhecimento. Sinta-se à vontade para entrar em contato!
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thatianecosta09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thatiane-costa)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/thatianecosta)
+
+---
+
+<p center>
+  <i>Obrigado por visitar o meu portfólio! 🧏🏻‍♀️✨</i>
+</p>
