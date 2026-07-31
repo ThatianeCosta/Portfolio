@@ -40,11 +40,9 @@ function handleScroll() {
     }
 }
 
-/* Dispara no Scroll e no Load */
 window.onscroll = handleScroll;
 window.addEventListener('load', handleScroll);
 
-/* Fecha o menu mobile quando o usuário clica em um link do menu */
 navLinks.forEach(link => {
     link.onclick = () => {
         if (menuIcon && navbar) {
