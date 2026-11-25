@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
 
-> Bem-vindo(a) ao meu portfólio! Aqui você encontrará minha trajetória como desenvolvedora, minhas principais habilidades e alguns dos projetos que desenvolvi.
+> Bem-vindo(a) ao meu portfólio! Aqui você encontrará minha trajetória como desenvolvedora, minhas principais habilidades e alguns dos projetos que desenvolvi
 
 🚀 **[Acesse o meu Portfólio online aqui!](https://thatianecosta.github.io/Portfolio/)**
 
